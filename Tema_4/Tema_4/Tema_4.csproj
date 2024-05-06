@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Tema_4.Ejercicio13</StartupObject>
+    <StartupObject>Tema_4.Ejercicio14</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -60,6 +60,7 @@
     <Compile Include="Ejercicio01.cs" />
     <Compile Include="Ejercicio04.cs" />
     <Compile Include="Ejercicio06_mutex.cs" />
+    <Compile Include="Ejercicio14.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

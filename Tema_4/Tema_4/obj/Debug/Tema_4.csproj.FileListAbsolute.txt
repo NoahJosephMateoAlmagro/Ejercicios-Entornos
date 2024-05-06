@@ -6,3 +6,10 @@ C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Te
 C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.CoreCompileInputs.cache
 C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.exe
 C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.pdb
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.AssemblyReference.cache
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.CoreCompileInputs.cache
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\obj\Debug\Tema_4.exe
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\obj\Debug\Tema_4.pdb
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\bin\Debug\Tema_4.exe.config
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\bin\Debug\Tema_4.exe
+C:\Users\noahj\Desktop\Universidad\Tercero\EM\Ejercicios-Entornos\Tema_4\Tema_4\bin\Debug\Tema_4.pdb
