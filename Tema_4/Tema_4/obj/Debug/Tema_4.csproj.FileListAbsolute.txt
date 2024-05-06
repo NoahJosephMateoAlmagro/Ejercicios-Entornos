@@ -1,0 +1,8 @@
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\bin\Debug\Tema_4.exe.config
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\bin\Debug\Tema_4.exe
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\bin\Debug\Tema_4.pdb
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.AssemblyReference.cache
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.csproj.CoreCompileInputs.cache
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.exe
+C:\Users\Noah Joseph\Desktop\Universidad\Tercero\Entornos Multijugador\Tema_4\Tema_4\obj\Debug\Tema_4.pdb
